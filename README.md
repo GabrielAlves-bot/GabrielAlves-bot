@@ -3,7 +3,7 @@
 
 👨🏾‍💻 Software Developer 🇧🇷 Brasília-DF, Brazil 
 
-![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=GabrielAlves-bot&show_icons=true&theme=onedark)
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=GabrielAlves-bot&show_icons=true&theme=onedark)
 
 ## About Me
 
