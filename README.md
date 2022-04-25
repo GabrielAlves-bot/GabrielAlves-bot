@@ -1,5 +1,5 @@
-## 🔧 Under Construction 🔧
-# Hi there 👋🏾 I'm Gabriel 🧑🏾‍🦱
+
+# Hi there I'm Gabriel🏾‍🦱
 
 👨🏾‍💻 Software Developer 🇧🇷 Brasília-DF, Brazil 
 
